@@ -47,7 +47,7 @@ DB_NAME = environ.get("DB_NAME", "vjbotz")
 # Bot Information
 BOT_TOKEN = environ.get("BOT_TOKEN", "5480252978:AAHxXxAUodJGG4Vdvuoi4VBYRIi4fq8kDVQ")
 BOT_USERNAME = environ.get("BOT_USERNAME", "Movie_LinkBot") # your bot username without @
-PICS = (environ.get('PICS', 'https://graph.org/file/82ef767ffebe3a948e476.jpg https://graph.org/file/82ef767ffebe3a948e476.jpg')).split() # Bot Start Picture
+PICS = (environ.get('PICS', 'https://graph.org/file/314ec419811778a1e34a1.jpg https://graph.org/file/6d4e52fdd5d624c2f7f1b.jpg')).split() # Bot Start Picture
 
 # Auto Delete Information
 AUTO_DELETE = int(environ.get("AUTO_DELETE", "30")) # Time in Minutes
